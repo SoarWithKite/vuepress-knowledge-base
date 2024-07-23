@@ -17,6 +17,7 @@ module.exports = {
 
         ['meta', {name: 'wwads-cn-verify', content: '6c4b761a28b734fe93831e3fb400ce87'}], // 广告相关，你可以去掉
         ['script', {src: 'https://cdn.wwads.cn/js/makemoney.js', type: 'text/javascript'}], // 广告相关，你可以去掉
+        ['meta', {name: 'referrer', content: 'no-referrer'}]
     ],
 
     // 主题配置
