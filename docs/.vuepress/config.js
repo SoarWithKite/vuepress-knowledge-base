@@ -73,7 +73,25 @@ module.exports = {
                     },
                     {
                         text: 'Redis', items: [
-                            {text: '主从复制', link: '/pages/e95821/'}
+                            {text: '基本数据类型', link: '/pages/0dca32/'},
+                            {text: '持久化', link: '/pages/385c96/'},
+                            {text: '事务', link: '/pages/263820/'},
+                            {text: '管道', link: '/pages/0e1911/'},
+                            {text: '复制', link: '/pages/200e04/'},
+                            {text: '哨兵', link: '/pages/87db71/'},
+                            {text: '集群', link: '/pages/b94388/'},
+                            {text: '单线程VS多线程', link: '/pages/fe6b53/'},
+                            {text: 'BigKey', link: '/pages/1c8854/'},
+                            {text: '缓存双写一致性问题', link: '/pages/3e4ea3/'},
+                            {text: 'Bitmap/HyperLogLog/Geo', link: '/pages/173feb/'},
+                            {text: '布隆过滤器BloomFilter', link: '/pages/5e6913/'},
+                            {text: '缓存预热+缓存雪崩+缓存击穿+缓存穿透', link: '/pages/1b79b1/'},
+                            {text: 'Redis分布式锁', link: '/pages/cf81c0/'},
+                            {text: 'Redlock', link: '/pages/9449be/'},
+                            {text: 'Redis的缓存过期淘汰策略', link: '/pages/26005c/'},
+                            {text: 'Redis经典五大类型源码及底层实现', link: '/pages/9d5637/'},
+                            {text: '高性能设计之epoll和IO多路复用深度解析', link: '/pages/4e357c/'},
+                            {text: '微信抢红包', link: '/pages/505b59/'},
                         ]
                     }
                 ]
